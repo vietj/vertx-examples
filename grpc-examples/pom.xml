@@ -58,6 +58,12 @@
       <version>${project.version}</version>
     </dependency>
 
+    <dependency>
+      <groupId>com.google.protobuf</groupId>
+      <artifactId>protobuf-java-util</artifactId>
+      <version>3.22.0</version>
+    </dependency>
+
   </dependencies>
 
   <build>

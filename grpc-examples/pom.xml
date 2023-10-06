@@ -27,6 +27,12 @@
     </dependency>
 
     <dependency>
+      <groupId>com.squareup</groupId>
+      <artifactId>protoparser</artifactId>
+      <version>4.0.3</version>
+    </dependency>
+
+    <dependency>
       <groupId>io.vertx</groupId>
       <artifactId>vertx-grpc-client</artifactId>
       <version>${project.version}</version>
